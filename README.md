@@ -95,10 +95,10 @@ Key analysis steps and their visualizations:
 ```
 📦 Amazon-Sales-Analysis
 │
-├── 📄 Amazon_Sales_Analysis.ipynb       # Main analysis notebook
+├── 📄 Amazon_Sales_Analysis.ipynb        # Main analysis notebook
 ├── 📄 Amazon_Sales_Report.csv            # Dataset
 ├── 📄 README.md                          # Project overview and documentation
-└── 📁 images/                            # (Optional) Exported graphs & charts
+└── 📁 images/                            # Exported graphs & charts
 ```
 
 ---
